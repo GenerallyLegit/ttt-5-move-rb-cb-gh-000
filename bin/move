@@ -8,5 +8,5 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Where would you like to start?"
 input = gets.strip
 index = input_to_index(input)
-move(board, index)
-display_board
+#move(board, index)
+#ßdisplay_board
